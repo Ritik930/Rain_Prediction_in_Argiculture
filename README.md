@@ -50,7 +50,7 @@ The aim of this project is to forecast rainfall patterns using machine learning 
 
 ## Contributors
 
-- [Ritik](https://github.com/Ritik930/Rain_Prediction_in_Argiculture/tree/main)
+- [Ritik kumar](https://github.com/Ritik930/Rain_Prediction_in_Argiculture/tree/main)
 
 ## License
 
