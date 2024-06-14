@@ -28,7 +28,7 @@ The aim of this project is to forecast rainfall patterns using machine learning 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/rain-prediction-agriculture.git
+   git clone https://github.com/Ritik930/Rain_Prediction_in_Argiculture/tree/main
    ```
    
 2. Navigate to the project directory:
@@ -50,7 +50,7 @@ The aim of this project is to forecast rainfall patterns using machine learning 
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Ritik](https://github.com/Ritik930/Rain_Prediction_in_Argiculture/tree/main)
 
 ## License
 
